@@ -1,6 +1,6 @@
 # Text Classification Analysis
 
-Full Documentation can be found [here]('https://towardsdatascience.com/analyzing-text-classification-techniques-on-youtube-data-7af578449f58')
+Full Documentation can be found [here](https://towardsdatascience.com/analyzing-text-classification-techniques-on-youtube-data-7af578449f58)
 
 The task is to classify a video into different classes based on its title and description using different Techniques (Naive Bayes, Support Vector Machines, Adaboost, and LSTM) and analyzing their performance. These classes are chosen to be(but are not limited to):
 
